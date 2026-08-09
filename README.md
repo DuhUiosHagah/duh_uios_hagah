@@ -14,7 +14,7 @@ VS Code
 
 📂 Projetos em Destaque
 🌙 Metztli — Rastreador da Lua em tempo real
-[Acesse aqui](https://duhuioshagah.github.io/mettril-project/)
+[Acesse aqui](https://duhuioshagah.github.io/metztli-project/)
 
 🎯 Interesses
 Automação de rotinas fiscais
